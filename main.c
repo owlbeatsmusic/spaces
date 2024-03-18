@@ -1,3 +1,4 @@
+
 // cl .\main.c user32.lib gdi32.lib winmm.lib
 
 #include <windows.h>
