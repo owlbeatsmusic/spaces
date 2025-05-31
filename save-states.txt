@@ -1,0 +1,77 @@
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node3.c
+cc -o mainspace/node3 mainspace/node3.c spaces_versions/v1/v1spaces.c && ./mainspace/node3
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node3.c
+cc -o mainspace/node3 mainspace/node3.c spaces_versions/v1/v1spaces.c && ./mainspace/node3
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node3.c
+cc -o mainspace/node3 mainspace/node3.c spaces_versions/v1/v1spaces.c && ./mainspace/node3
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node1.c
+cc -o mainspace/node1 mainspace/node1.c spaces_versions/v1/v1spaces.c && ./mainspace/node1
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node3.c
+cc -o mainspace/node3 mainspace/node3.c spaces_versions/v1/v1spaces.c && ./mainspace/node3
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node3.c
+cc -o mainspace/node3 mainspace/node3.c spaces_versions/v1/v1spaces.c && ./mainspace/node3
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node3.c
+cc -o mainspace/node3 mainspace/node3.c spaces_versions/v1/v1spaces.c && ./mainspace/node3
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node1.c
+cc -o mainspace/node1 mainspace/node1.c spaces_versions/v1/v1spaces.c && ./mainspace/node1
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node1.c
+cc -o mainspace/node1 mainspace/node1.c spaces_versions/v1/v1spaces.c && ./mainspace/node1
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node1.c
+cc -o mainspace/node1 mainspace/node1.c spaces_versions/v1/v1spaces.c && ./mainspace/node1
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
+SPACES-SAVE-STATE-BEGIN
+SPACES-CMD-BEGIN
+code mainspace/node5.c
+cc -o mainspace/node5 mainspace/node5.c spaces_versions/v1/v1spaces.c && ./mainspace/node5
+SPACES-CMD-END
+SPACES-SAVE-STATE-END
+
